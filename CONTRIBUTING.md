@@ -1,6 +1,6 @@
-# Contributing to disease-susceptibility-analysis
+# Contributing to predicting-disease-causing-mutations
 
-Thank you for your interest in contributing to `disease-susceptibility-analysis`! We welcome contributions of all kinds, including bug fixes, feature requests, documentation improvements, and code contributions. This guide will help you get started.
+Thank you for your interest in contributing to `predicting-disease-causing-mutations`! We welcome contributions of all kinds, including bug fixes, feature requests, documentation improvements, and code contributions. This guide will help you get started.
 
 ## How to Contribute
 
@@ -9,7 +9,7 @@ Thank you for your interest in contributing to `disease-susceptibility-analysis`
 2. **Clone your fork**: Clone your forked repository to your local development environment.
 
     ```bash
-    git clone https://github.com/disease-susceptibility-analysis/disease-susceptibility-analysis.git
+    git clone https://github.com/hackbio-ca/predicting-disease-causing-mutations.git
     ```
 
 3. **Create a new branch**: Create a new branch for your changes. Use a descriptive branch name that indicates the work you are doing.
@@ -44,7 +44,7 @@ Please follow these guidelines to ensure consistency across the codebase:
 
 ## Reporting Issues
 
-If you encounter a bug, have a question, or want to suggest a new feature, please [open an issue](https://github.com/hackbio-ca/disease-susceptibility-analysis/issues) on GitHub. Provide as much detail as possible, including:
+If you encounter a bug, have a question, or want to suggest a new feature, please [open an issue](https://github.com/hackbio-ca/predicting-disease-causing-mutations/issues) on GitHub. Provide as much detail as possible, including:
 
 - Steps to reproduce the issue.
 - The expected behavior and the observed behavior.
@@ -60,6 +60,6 @@ We strive to maintain a positive and inclusive community. Please adhere to our [
 
 ## License
 
-By contributing to `disease-susceptibility-analysis`, you agree that your contributions will be licensed under the MIT License.
+By contributing to `predicting-disease-causing-mutations`, you agree that your contributions will be licensed under the MIT License.
 
-We appreciate your contributions and look forward to working together to improve `disease-susceptibility-analysis`!
+We appreciate your contributions and look forward to working together to improve `predicting-disease-causing-mutations`!

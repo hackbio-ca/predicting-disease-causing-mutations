@@ -1,6 +1,6 @@
-# disease-susceptibility-analysis
+# predicting-disease-causing-mutations
 
-Create a tool to predict disease susceptibility in underserved areas using environmental and RNA-seq data to identify biomarkers and gene expression patterns.
+Creating a better understanding of how specific mutations can affect protein function and structure.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -71,7 +71,7 @@ Contributions are welcome! If you'd like to contribute, please open an issue or 
 
 ## Support
 
-If you have any issues or need help, please open an [issue](https://github.com/hackbio-ca/disease-susceptibility-analysis/issues) or contact the project maintainers.
+If you have any issues or need help, please open an [issue](https://github.com/hackbio-ca/predicting-disease-causing-mutations/issues) or contact the project maintainers.
 
 ## License
 
