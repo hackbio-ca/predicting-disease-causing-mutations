@@ -6,14 +6,19 @@ Creating a better understanding of how specific mutations can affect protein fun
 
 ## Abstract
 
-Proteins are vital for numerous biological processes, with their functions determined by their unique three-dimensional structure, which depends on their amino acid sequence. Even minor mutations can disrupt protein folding, stability, and interactions, potentially leading to various diseases [1]. Using bioinformatics tools and molecular dynamics simulations, we predict how specific genetic mutations disrupt protein structure and function. This lets us better understand genetic diseases and may provide insights into developing targeted therapies [2].
+Alzheimer’s Disease is the most common cause of dementia[1], causing loss of cognitive brain function and affecting over 55 million people worldwide[2]. The disease is generally not known to have an individual genetic cause, however, it is influenced by many genes as well as environmental factors and lifestyle[3]. Regardless of this, about two-thirds of the people with Alzheimer’s are women[4]. Using bioinformatics tools, we will investigate the risk of Alzheimer's development through genomics. This lets us better understand the genetic factors contributing to Alzheimer’s and may provide insights into developing targeted therapies.
 
-We will focus on understanding how specific mutations alter protein function and potentially lead to misfolding or activity loss. By integrating data from genomic databases and leveraging machine learning techniques, we aim to predict which mutations are most likely to cause disease. This streamlined approach could provide a foundation for personalized medicine, with treatments tailored based on specific mutations present in a patient's genome, ultimately contributing to more effective disease management.
+We will focus on predicting the likelihood of Alzheimer’s in females based on the existence of specific single-nucleotide variants (SNVs) in their genetic code. Using Deep Genomics’ GenomeKit python repository to process a database of SNVs in women with and without Alzheimer’s and inputting this information into the Borzoi model, we can score variant effects across multiple layers of regulation. This streamlined approach could provide a foundation for diagnosing Alzheimer’s, emphasising prevention and early detection, ultimately contributing to effective disease management and highlighting the need for more research on how the disease affects women. 
 
 Sources:  
-[1] A. L. M. Li, L. A. Thomas, and J. M. Griffith, "[Predicting the effect of missense mutations on protein structure and function: the PolyPhen-2 and SIFT algorithms](https://academic.oup.com/nar/article/39/17/e118/2411278?login=false)," *Nucleic Acids Research*, vol. 39, no. 17, pp. e118, Sep. 2011. [Online]. Available: [https://academic.oup.com/nar/article/39/17/e118/2411278?login=false](https://academic.oup.com/nar/article/39/17/e118/2411278?login=false)
+[1] Podcasy, J. L., & Epperson, C. N. (2016, December). Considering sex and gender in alzheimer disease and other dementias. Dialogues in clinical neuroscience. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5286729/
 
-[2] B. Alberts, A. Johnson, J. Lewis, M. Raff, K. Roberts, and P. Walter, "[Molecular Biology of the Cell](https://www.ncbi.nlm.nih.gov/books/NBK26830/)," 6th ed. New York: Garland Science, 2014. [Online]. Available: [https://www.ncbi.nlm.nih.gov/books/NBK26830/](https://www.ncbi.nlm.nih.gov/books/NBK26830/)
+[2] Alzheimer’s disease: Facts & figures. BrightFocus. (n.d.). https://www.brightfocus.org/alzheimers/article/alzheimers-disease-facts-figures 
+
+[3] What causes alzheimer’s disease? | National Institute on Aging. National Institute on Aging. (n.d.). https://www.nia.nih.gov/health/alzheimers-causes-and-risk-factors/what-causes-alzheimers-disease 
+
+[4] Why does alzheimer’s affect more women than men? BrightFocus. (n.d.-b). https://www.brightfocus.org/alzheimers/article/why-does-alzheimers-disease-affect-more-women-men 
+
 
 ## Installation
 
