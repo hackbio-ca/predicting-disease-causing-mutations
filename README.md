@@ -1,5 +1,7 @@
 # predicting-disease-causing-mutations
 
+** Toronto Bioinformatics Hackathon, 2024**
+
 Creating a better understanding of how specific mutations can affect protein function and structure.
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
